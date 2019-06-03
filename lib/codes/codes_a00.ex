@@ -2,7 +2,7 @@ defmodule IcdCode.ICDCode.Codes_A00 do
 
 	alias IcdCode.ICDCode
 
-	def _A000 do
+	def _A000 do 
 		%ICDCode{full_code: "A000",
         		category_code: "A00",
         		short_code: "0",
