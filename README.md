@@ -1,6 +1,6 @@
 # IcdCode
 
-**TODO: Add description**
+Elixir Wrapper module for ICD 10 codes
 
 ## Installation
 
